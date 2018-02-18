@@ -5,8 +5,4 @@ class Song
     @name = name
     @genre = genre
   end
-
-  def songs
-
-  end
 end
