@@ -12,6 +12,6 @@ class Doctor
   end
 
   def appointments
-
+    self.appointments
   end
 end
