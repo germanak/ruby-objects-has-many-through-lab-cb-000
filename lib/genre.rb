@@ -9,4 +9,8 @@ class Genre
   def songs
     @songs
   end
+
+  def add_song(song)
+    @songs << song
+  end
 end
